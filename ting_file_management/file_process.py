@@ -1,5 +1,5 @@
-from .file_management import txt_importer
 import sys
+from ting_file_management.file_management import txt_importer
 
 
 def process(path_file, instance):
